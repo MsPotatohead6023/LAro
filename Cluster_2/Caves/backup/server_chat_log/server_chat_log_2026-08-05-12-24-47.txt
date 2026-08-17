@@ -1,0 +1,4 @@
+[00:00:32]: [Join Announcement] Patastas
+[00:04:38]: [Death Announcement] Patastas was killed by Deerclops. He became a spooky ghost!
+[00:05:04]: [Resurrect Announcement] Patastas was resurrected by Florid Postern.
+[00:07:01]: [Leave Announcement] Patastas

@@ -1,0 +1,3 @@
+[00:00:36]: [Join Announcement] Patastas
+[00:01:25]: [Death Announcement] Patastas was killed by Deerclops. He became a spooky ghost!
+[00:01:32]: [Leave Announcement] Patastas

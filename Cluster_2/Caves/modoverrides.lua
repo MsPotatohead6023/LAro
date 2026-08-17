@@ -1,0 +1,60 @@
+return {
+  ["workshop-1185229307"]={
+    configuration_options={
+      CAMERA=true,
+      CAPTURE=false,
+      CLIENT=false,
+      DAMAGE_NUMBERS=true,
+      DAMAGE_RESISTANCE=true,
+      FRAME_PHASES=true,
+      GLOBAL=false,
+      GLOBAL_NUMBERS=false,
+      HORIZONTAL_OFFSET=0,
+      SERVER=false,
+      TAG="EPIC",
+      WETNESS_METER=false 
+    },
+    enabled=true 
+  },
+  ["workshop-1595631294"]={
+    configuration_options={
+      BundleItems=false,
+      ChangeSkin=true,
+      Digornot=false,
+      DragonflyChest=false,
+      Icebox=false,
+      OnlyPlayer=false,
+      SaltBox=false 
+    },
+    enabled=true 
+  },
+  ["workshop-2078243581"]={
+    configuration_options={ Blue=0, Display="target", Green=0, Projectile=true, Red=1, Type="hit" },
+    enabled=true 
+  },
+  ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
+  ["workshop-378160973"]={
+    configuration_options={
+      ENABLEPINGS=true,
+      FIREOPTIONS=2,
+      OVERRIDEMODE=false,
+      SHAREMINIMAPPROGRESS=true,
+      SHOWFIREICONS=true,
+      SHOWPLAYERICONS=true,
+      SHOWPLAYERSOPTIONS=2 
+    },
+    enabled=true 
+  },
+  ["workshop-462469447"]={ configuration_options={  }, enabled=true },
+  ["workshop-543945797"]={
+    configuration_options={
+      amount_of_numbers="default",
+      display_mode="waving",
+      dmg_only="on",
+      number_size="default",
+      show_decimal_points="no" 
+    },
+    enabled=true 
+  },
+  ["workshop-632082897"]={ configuration_options={  }, enabled=true } 
+}

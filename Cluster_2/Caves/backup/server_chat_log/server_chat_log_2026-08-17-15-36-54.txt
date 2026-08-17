@@ -1,0 +1,8 @@
+[00:00:33]: [Join Announcement] Patastas
+[00:02:00]: [Join Announcement] wuciii
+[00:04:33]: [Leave Announcement] wuciii
+[00:08:36]: [Join Announcement] wuciii
+[00:12:21]: [Death Announcement] Patastas was killed by Frog. He became a spooky ghost!
+[00:12:45]: [Vote Announcement] rollback passed
+[00:13:59]: [Leave Announcement] wuciii
+[00:16:55]: [Leave Announcement] Patastas

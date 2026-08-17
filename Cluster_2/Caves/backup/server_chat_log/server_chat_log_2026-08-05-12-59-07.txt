@@ -1,0 +1,6 @@
+[00:00:35]: [Join Announcement] Patastas
+[00:09:49]: [Vote Announcement] rollback passed
+[00:09:52]: [Vote Announcement] rollback passed
+[00:09:55]: [Vote Announcement] rollback passed
+[00:10:01]: [Vote Announcement] rollback passed
+[00:10:05]: [Leave Announcement] Patastas

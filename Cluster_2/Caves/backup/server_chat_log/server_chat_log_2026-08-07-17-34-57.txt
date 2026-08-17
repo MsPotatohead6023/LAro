@@ -1,0 +1,22 @@
+[00:00:35]: [Join Announcement] Patastas
+[00:03:02]: [Death Announcement] Patastas was killed by Terrorbeak. He became a spooky ghost!
+[00:03:08]: [Resurrect Announcement] Patastas was resurrected by Florid Postern.
+[00:29:16]: [Death Announcement] Patastas was killed by Tallbird. He became a spooky ghost!
+[00:29:36]: [Vote Announcement] rollback passed
+[00:31:34]: [Vote Announcement] rollback passed
+[00:33:15]: [Vote Announcement] rollback passed
+[00:33:19]: [Death Announcement] Patastas was killed by Tallbird. He became a spooky ghost!
+[00:42:54]: [Join Announcement] Nell
+[00:43:50]: [Say] (KU_wGWouGrd) Nell: pahingi ako itlog
+[00:44:24]: [Say] (KU_wGWouGrd) Nell: eto kainin mo pang heal
+[00:50:21]: [Say] (KU_wGWouGrd) Nell: \
+[00:50:28]: [Vote Announcement] rollback passed
+[01:03:30]: [Vote Announcement] rollback passed
+[01:32:27]: [Death Announcement] Patastas was killed by Guard Pig. He became a spooky ghost!
+[01:32:41]: [Vote Announcement] rollback passed
+[01:41:00]: [Skin Announcement] Patastas legs_pinstripe_pants_purple_violet
+[01:51:50]: [Death Announcement] Patastas was killed by Guard Pig. He became a spooky ghost!
+[01:52:27]: [Resurrect Announcement] Patastas was resurrected by Florid Postern.
+[01:52:27]: [Leave Announcement] Nell
+[01:52:37]: [Vote Announcement] rollback passed
+[01:53:13]: [Leave Announcement] Patastas

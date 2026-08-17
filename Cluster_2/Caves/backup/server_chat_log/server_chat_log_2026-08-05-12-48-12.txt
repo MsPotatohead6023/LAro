@@ -1,0 +1,12 @@
+[00:00:36]: [Join Announcement] Patastas
+[00:20:39]: [Death Announcement] Patastas was killed by Deerclops. He became a spooky ghost!
+[00:20:47]: [Resurrect Announcement] Patastas was resurrected by Florid Postern.
+[00:21:15]: [Vote Announcement] rollback passed
+[00:21:32]: [Death Announcement] Patastas was killed by Batilisk. He became a spooky ghost!
+[00:21:40]: [Vote Announcement] rollback passed
+[00:21:50]: [Vote Announcement] rollback passed
+[00:21:53]: [Vote Announcement] rollback passed
+[00:21:56]: [Vote Announcement] rollback passed
+[00:21:58]: [Vote Announcement] rollback passed
+[00:22:10]: [Vote Announcement] rollback passed
+[00:22:14]: [Leave Announcement] Patastas

@@ -1,0 +1,18 @@
+[00:00:30]: [Join Announcement] Patastas
+[00:02:54]: [Join Announcement] wuciii
+[00:02:59]: [Death Announcement] Patastas was killed by Varglet. He became a spooky ghost!
+[00:03:12]: [Vote Announcement] rollback passed
+[00:03:41]: [Join Announcement] wuciii
+[00:03:59]: [Vote Announcement] rollback passed
+[00:05:53]: [Death Announcement] wuciii was killed by Hound. He became a spooky ghost!
+[00:05:59]: [Resurrect Announcement] wuciii was resurrected by Celestial Portal.
+[00:06:01]: [Vote Announcement] rollback passed
+[00:06:06]: [Death Announcement] Patastas was killed by Hound. He became a spooky ghost!
+[00:26:39]: [Skin Announcement] Patastas hand_warly_lunar
+[00:46:49]: [Death Announcement] wuciii was killed by Treeguard. He became a spooky ghost!
+[00:47:24]: [Resurrect Announcement] wuciii was resurrected by Celestial Portal.
+[01:05:53]: [Death Announcement] Patastas was killed by Pig Man. He became a spooky ghost!
+[01:06:07]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[01:10:48]: [Skin Announcement] wuciii body_buttons_red_burgundy
+[01:18:03]: [Leave Announcement] wuciii
+[01:22:44]: [Leave Announcement] Patastas
