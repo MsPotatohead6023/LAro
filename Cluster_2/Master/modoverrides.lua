@@ -32,7 +32,6 @@ return {
     configuration_options={ Blue=0, Display="target", Green=0, Projectile=true, Red=1, Type="hit" },
     enabled=true 
   },
-  ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
   ["workshop-378160973"]={
     configuration_options={
       ENABLEPINGS=true,
