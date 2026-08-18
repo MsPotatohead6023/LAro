@@ -66,9 +66,9 @@ KLEI     1 return {
     max_players=6,
     name="Patastas's and Cessy's World",
     online_mode=true,
-    password="",
+    password="patastas",
     playstyle="relaxed",
-    privacy_type=1,
+    privacy_type=0,
     pvp=false,
     server_language="en" 
   },

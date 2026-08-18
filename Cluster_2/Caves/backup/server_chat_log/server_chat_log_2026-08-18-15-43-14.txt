@@ -1,0 +1,8 @@
+[00:03:28]: [Join Announcement] wuciii
+[00:04:12]: [Join Announcement] Patastas
+[00:06:03]: [Death Announcement] Patastas was killed by Pig Man. He became a spooky ghost!
+[00:06:03]: [Join Announcement] Nell
+[00:06:17]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[00:08:06]: [Leave Announcement] Nell
+[00:08:46]: [Vote Announcement] rollback passed
+[00:10:38]: [Leave Announcement] wuciii
