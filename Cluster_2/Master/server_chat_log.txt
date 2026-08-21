@@ -1,25 +1,72 @@
-[00:00:31]: [Join Announcement] Patastas
-[00:02:07]: [Join Announcement] wuciii
-[00:07:39]: [Death Announcement] Patastas was killed by Pig Man. He became a spooky ghost!
-[00:07:42]: [Leave Announcement] wuciii
-[00:07:47]: [Vote Announcement] rollback passed
-[00:09:39]: [Join Announcement] Rose_Zy
-[00:10:55]: [Vote Announcement] rollback passed
-[00:12:39]: [Death Announcement] Patastas was killed by Pig Man. He became a spooky ghost!
-[00:13:00]: [Vote Announcement] rollback passed
-[00:15:39]: [Join Announcement] wuciii
-[00:16:21]: [Death Announcement] Patastas was killed by Pig Man. He became a spooky ghost!
-[00:16:43]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
-[00:31:45]: [Death Announcement] Patastas was killed by Pig Man. He became a spooky ghost!
-[00:33:39]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
-[00:45:24]: [Death Announcement] wuciii was killed by Crawling Horror. He became a spooky ghost!
-[00:45:34]: [Resurrect Announcement] wuciii was resurrected by Celestial Portal.
-[01:06:16]: [Death Announcement] wuciii was killed by Killer Bee. He became a spooky ghost!
-[01:09:49]: [Resurrect Announcement] wuciii was resurrected by Celestial Portal.
-[01:13:02]: [Death Announcement] Patastas was killed by Batilisk. He became a spooky ghost!
-[01:13:44]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
-[01:16:03]: [Leave Announcement] wuciii
-[01:31:02]: [Death Announcement] Patastas was killed by Pig Man. He became a spooky ghost!
-[01:31:12]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
-[01:47:07]: [Leave Announcement] Rose_Zy
-[02:06:03]: [Leave Announcement] Patastas
+[00:03:26]: [Join Announcement] Patastas
+[00:03:58]: [Leave Announcement] Patastas
+[00:07:50]: [Join Announcement] Rose_Zy
+[00:08:31]: [Join Announcement] Patastas
+[00:08:42]: [Join Announcement] paopao
+[00:21:39]: [Announcement] You feel an evil presence watching you...
+[00:21:49]: [Announcement] The Eye of Terror turns its gaze toward paopao
+[00:22:02]: [Death Announcement] Patastas was killed by Eye Of Terror. He became a spooky ghost!
+[00:22:16]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[00:22:50]: [Death Announcement] Patastas was killed by Eye Of Terror. He became a spooky ghost!
+[00:22:54]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[00:23:08]: [Death Announcement] Patastas was killed by Eye Of Terror. He became a spooky ghost!
+[00:23:14]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[00:23:33]: [Death Announcement] Patastas was killed by Eye Of Terror. He became a spooky ghost!
+[00:23:47]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[00:24:03]: [Death Announcement] paopao was killed by Suspicious Peeper. She became a spooky ghost!
+[00:24:23]: [Resurrect Announcement] paopao was resurrected by Celestial Portal.
+[00:26:32]: [Vote Announcement] rollback failed
+[00:27:30]: [Death Announcement] Patastas was killed by Varglet. He became a spooky ghost!
+[00:27:33]: [Vote Announcement] rollback passed
+[00:27:36]: [Vote Announcement] rollback failed
+[00:28:09]: [Vote Announcement] rollback passed
+[00:28:09]: [Vote Announcement] rollback passed
+[00:31:47]: [Leave Announcement] Rose_Zy
+[00:32:58]: [Join Announcement] Rose_Zy
+[00:45:58]: [Death Announcement] Patastas was killed by Pig Man. He became a spooky ghost!
+[00:46:04]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[01:19:21]: [Leave Announcement] paopao
+[01:20:05]: [Death Announcement] Patastas was killed by Guard Pig. He became a spooky ghost!
+[01:20:38]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[01:21:08]: [Join Announcement] paopao
+[01:21:59]: [Death Announcement] Patastas was killed by Guard Pig. He became a spooky ghost!
+[01:22:38]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[01:31:24]: [Death Announcement] Patastas was killed by Beefalo. He became a spooky ghost!
+[01:31:34]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[01:33:00]: [Death Announcement] Patastas was killed by Terrorbeak. He became a spooky ghost!
+[01:33:06]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[01:36:16]: [Leave Announcement] Patastas
+[01:38:44]: [Join Announcement] Patastas
+[02:16:59]: [Skin Announcement] paopao body_buttons_pink_hibiscus
+[02:17:05]: [Skin Announcement] Patastas body_trimmed_blouse_green_celadon
+[02:19:26]: [Announcement] You feel an evil presence watching you...
+[02:19:36]: [Announcement] The Eye of Terror turns its gaze toward Rose_Zy
+[02:23:49]: [Death Announcement] Patastas was killed by Pig Man. He became a spooky ghost!
+[02:24:03]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[02:30:22]: [Leave Announcement] paopao
+[02:35:07]: [Join Announcement] Nell
+[02:44:43]: [Say] (KU_wGWouGrd) Nell: sama ka JR? papatayin ko guardian
+[03:07:51]: [Leave Announcement] Rose_Zy
+[03:16:21]: [Announcement] You feel an evil presence watching you...
+[03:16:31]: [Announcement] The Eye of Terror turns its gaze toward Nell
+[03:18:12]: [Join Announcement] Rose_Zy
+[03:24:09]: [Announcement] You feel an evil presence watching you...
+[03:24:19]: [Announcement] The Eye of Terror turns its gaze toward Rose_Zy
+[03:38:02]: [Death Announcement] Nell was killed by Terrorbeak. He became a spooky ghost!
+[03:38:11]: [Resurrect Announcement] Nell was resurrected by Life Giving Amulet.
+[03:38:40]: [Death Announcement] Nell was killed by Depths Worm. He became a spooky ghost!
+[03:38:47]: [Resurrect Announcement] Nell was resurrected by Life Giving Amulet.
+[03:52:29]: [Death Announcement] Patastas was killed by Beefalo. He became a spooky ghost!
+[03:52:34]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[04:09:23]: [Death Announcement] Patastas was killed by Fire Hound. He became a spooky ghost!
+[04:09:41]: [Vote Announcement] rollback passed
+[04:14:44]: [Vote Announcement] rollback passed
+[04:20:11]: [Death Announcement] Patastas was killed by Hound. He became a spooky ghost!
+[04:20:29]: [Resurrect Announcement] Patastas was resurrected by Celestial Portal.
+[04:22:50]: [Vote Announcement] rollback failed
+[04:23:14]: [Leave Announcement] Patastas
+[04:23:17]: [Leave Announcement] Nell
+[04:23:48]: [Leave Announcement] Rose_Zy
+[04:24:20]: [Join Announcement] Patastas
+[04:37:05]: [Leave Announcement] Patastas
+[16:59:48]: [System Message] Saving world and stopping...

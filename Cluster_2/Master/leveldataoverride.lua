@@ -1,4 +1,4 @@
-return {
+KLEI     1 return {
   desc="A more relaxed playstyle with less threats from the world.\
 Survivors will not die from starvation, freezing, overheating, or the darkness.\
 Damage to survivors is reduced. Resurrection is always available via the Florid Postern.",

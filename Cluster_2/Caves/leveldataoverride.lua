@@ -1,4 +1,4 @@
-return {
+KLEI     1 return {
   background_node_range={ 0, 1 },
   desc="Delve into the caves... together!",
   hideminimap=false,
